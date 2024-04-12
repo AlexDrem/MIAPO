@@ -1,1 +1,10 @@
-Chapter 3 - the end?
+На ветке chapter-3-collaboration
+Ваша ветка обновлена в соответствии с «origin/chapter-3-collaboration».
+
+Изменения, которые не в индексе для коммита:
+  (используйте «git add <файл>…», чтобы добавить файл в индекс)
+  (use "git restore <file>..." to discard changes in working directory)
+	изменено:      chapter-3.txt
+
+нет изменений добавленных для коммита
+(используйте «git add» и/или «git commit -a»)
